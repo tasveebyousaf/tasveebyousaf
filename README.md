@@ -14,7 +14,11 @@
 - 🤖 Focused on retrieval-augmented generation, AI guardrails, and applied machine learning
 - 🌍 President of the International Students' Union at my faculty
 
-> 🏆 **Winner, DEIK.AI Challenge 2026** with [CiteFlow](https://github.com/tasveebyousaf/citeflow)
+<p align="center">
+  <a href="https://github.com/tasveebyousaf/citeflow">
+    <img src="assets/deik-winner.svg" alt="Achievement unlocked: DEIK.AI Challenge 2026, won with CiteFlow" width="720" />
+  </a>
+</p>
 
 ### Featured projects
 
