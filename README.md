@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/tasveebyousaf/citeflow">
-    <img src="assets/deik-winner.svg" alt="Achievement unlocked: DEIK.AI Challenge 2026, won with CiteFlow" width="720" />
+    <img src="assets/deik-winner.svg" alt="Achievement unlocked: DEIK.AI Challenge 2026, won with CiteFlow" width="480" />
   </a>
 </p>
 
