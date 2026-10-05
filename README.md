@@ -27,7 +27,7 @@
 <td width="50%" valign="top">
 <img src="assets/icon-citeflow.svg" width="44" align="left" alt="" />
 
-#### <a href="https://github.com/tasveebyousaf/citeflow">CiteFlow</a>
+### <a href="https://github.com/tasveebyousaf/citeflow">CiteFlow</a>
 <img src="https://img.shields.io/badge/Winner%20%C2%B7%20DEIK.AI%202026-b8860b?style=flat-square" alt="Winner · DEIK.AI 2026" />
 <br clear="left" />
 
@@ -39,7 +39,7 @@ Turns research papers into press releases, social posts and narrated videos. A s
 <td width="50%" valign="top">
 <img src="assets/icon-guardrail.svg" width="44" align="left" alt="" />
 
-#### <a href="https://github.com/tasveebyousaf/rag-guardrail-research-project">RAG Guardrail Research</a>
+### <a href="https://github.com/tasveebyousaf/rag-guardrail-research-project">RAG Guardrail Research</a>
 <img src="https://img.shields.io/badge/In%20progress-0b7f86?style=flat-square" alt="In progress" />
 <br clear="left" />
 
@@ -49,11 +49,14 @@ Benchmarks a DeBERTa prompt-injection classifier against an LLM-as-judge for fil
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 <img src="assets/icon-nlp.svg" width="44" align="left" alt="" />
 
-#### <a href="https://github.com/tasveebyousaf/NLP_MultiClass_Topic_Classifier_Project">NLP Topic Classifier</a>
+### <a href="https://github.com/tasveebyousaf/NLP_MultiClass_Topic_Classifier_Project">NLP Topic Classifier</a>
 <img src="https://img.shields.io/badge/Complete-1a7f37?style=flat-square" alt="Complete" />
 <br clear="left" />
 
@@ -65,7 +68,7 @@ End-to-end text classification on AG News: NLTK preprocessing, TF-IDF and Word2V
 <td width="50%" valign="top">
 <img src="assets/icon-quant.svg" width="44" align="left" alt="" />
 
-#### Quant Finance Trio
+### <a href="https://github.com/tasveebyousaf/pairs-trading-strategy">Quant Finance Trio</a>
 <img src="https://img.shields.io/badge/Complete-1a7f37?style=flat-square" alt="Complete" />
 <br clear="left" />
 
