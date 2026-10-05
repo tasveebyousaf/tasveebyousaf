@@ -39,5 +39,16 @@ Also explored: [quantum circuits with Qiskit](https://github.com/tasveebyousaf/I
 ### Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,js,react,nextjs,nodejs,postgres,supabase,git,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sklearn,pytorch,react,nextjs,nodejs,postgres,supabase,git,github,vscode,windows&theme=dark&perline=9" alt="Tech stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
 </p>
